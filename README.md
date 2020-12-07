@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remco</h1>
+<h2 align="center">Thanks for taking a look at my profile!</h2>
 <h3 align="center">A passionate IT student which likes to learn about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remco17&label=Profile%20views&color=0e75b6&style=flat" alt="remco17" /> </p>
