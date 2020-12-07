@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my website [https://github.com/Remco17/Remcowammes.me](https://github.com/Remco17/Remcowammes.me)
 
-- 🌱 I’m currently learning **Python, Swift and learning about OpenCore**
+- 🌱 I’m currently learning about **Python, Swift and learning about OpenCore**
 
 - 🤝 I’m looking for help with [SpotiCover](https://github.com/Remco17/SpotiCover)
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **IT Stuff!**
 
-- 📫 How to reach me **mail@remcowammes.me**
+- 📫 You can reach me at **mail@remcowammes.me**
 
-- 📄 Know about my experiences [(soon: remcowammes.me )]((soon: remcowammes.me ))
+- 📄 Take a look at my experiences! [(soon: remcowammes.me )]((soon: remcowammes.me ))
 
 - ⚡ Fun fact **I like pancakes with powder and cheese on the same pancake**
 
