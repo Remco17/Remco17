@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Swift and learning about OpenCore**
 
-- 🤝 I’m looking for help with SpotiCover [SpotiCover](https://github.com/Remco17/SpotiCover)
+- 🤝 I’m looking for help with [SpotiCover](https://github.com/Remco17/SpotiCover)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Remco17](https://github.com/Remco17)
 
