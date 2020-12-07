@@ -18,7 +18,7 @@
 
 - 📫 You can reach me at **mail@remcowammes.me**
 
-- 📄 Take a look at my experiences! [(soon: remcowammes.me )]((soon: remcowammes.me ))
+- 📄 Take a look at my experiences! [soon: remcowammes.me]
 
 - ⚡ Fun fact **I like pancakes with powder and cheese on the same pancake**
 
