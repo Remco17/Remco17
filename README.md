@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on my website [https://github.com/Remco17/Remcowammes.me](https://github.com/Remco17/Remcowammes.me)
 
-- 🌱 I’m currently learning about **Python, Swift and learning about OpenCore**
+- 🌱 I’m currently learning about **Python, NodeJS**
 
-- 🤝 I’m looking for help with [SpotiCover](https://github.com/Remco17/SpotiCover)
+- 🤝 I’m looking for help with [SpotiCover](https://github.com/Remco17/SpotiCover) & [SpotiPlay](https://github.com/Remco17/SpotiPlay)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Remco17](https://github.com/Remco17)
 
